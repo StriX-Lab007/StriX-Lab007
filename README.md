@@ -1,4 +1,4 @@
-# Hi, I'm Sashi Varddhan. 👋  
+# Hi, I'm Sashi Vardhan. 👋  
 
 ECE Undergraduate (Graduating 2029) | Web Developer | AI & Embedded Systems Enthusiast  
 
