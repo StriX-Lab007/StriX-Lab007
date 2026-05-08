@@ -1,76 +1,125 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-  <h1>Hey, I'm Sashi Vardhan 👋</h1>
-  <h3>ECE Undergraduate (Graduating 2029) | Web Developer | AI & Embedded Systems Enthusiast</h3>
-</div>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/mv-sashi-vardhan-reddy-a65071379/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/StriX-Lab007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/vardhan_sensei?igsh=MXV3b2hxOXkyY211bg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+
+# Strix Labs
+
+### Building Intelligent Systems Across AI, Embedded Computing & Robotics
+
+<p>
+Focused on engineering real-world systems that combine software intelligence, hardware integration, and scalable infrastructure.
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-I'm a first-year **Electronics & Communication Engineering** student passionate about blending **software, AI, and electronics** to create innovative solutions.  
+I’m an Electronics & Communication Engineering student focused on building systems at the intersection of:
 
-Currently exploring **Full Stack Web Development (MERN + Next.js)** and **Python**, while diving into **IoT, Embedded Systems**, and **Robotics**.
+- Artificial Intelligence
+- Embedded Systems
+- Robotics
+- Intelligent Infrastructure
+- Full Stack Engineering
 
-> 💡 *Goal:* Build impactful projects that merge **ECE + AI + Robotics**  
-
-🌱 **Learning:** Advanced Python, DSA, and Drone Control Systems  
-⚙️ **Interests:** Embedded Systems | AI Tools | PCB Design | Automation  
-🤝 **Open to:** Collaborations, Projects & Tech Events  
-
----
-
-### 🧠 Tech Stack & Tools
-
-#### 💻 Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,java,cpp,html,css,react,nextjs,nodejs,sql" />
-</p>
-
-#### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,linux" />
-</p>
-
-#### 🔌 Electronics & Embedded
-<p align="center">
-  <img src="https://img.shields.io/badge/PCB%20Design-00BFFF?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microcontrollers-FF4F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT%20Systems-4CAF50?style=for-the-badge&logo=internetofthings&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-0047AB?style=for-the-badge"/>
-</p>
+My current focus is on developing projects that bridge software intelligence with physical-world computing — from AI-powered applications to embedded and autonomous systems.
 
 ---
 
-### 🚀 Featured Projects
+## Current Focus
 
-- 🔹 [**Python Projects Collection**](#) — Beginner-level Python apps  
-- 🔹 [**Web Projects Collection**](#) — HTML/CSS/JS projects  
-- 🔹 [**Anime Shorts Gallery**](#) — React-based project for Zenova  
-- 🔹 [**ECE Drone Prototype**](#) — Integrating electronics + software  
+- Building AI-powered systems and tools
+- Exploring Embedded & Real-Time Systems
+- Developing Full Stack applications with scalable architectures
+- Experimenting with intelligent automation and hardware integration
+- Strengthening system design, problem solving, and engineering fundamentals
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
+
+### Programming & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nextjs,nodejs,sql" />
+</p>
+
+### Tools & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,docker,aws" />
+</p>
+
+### Embedded & Systems Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT%20Systems-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microcontrollers-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PCB%20Design-4B5563?style=for-the-badge"/>
+</p>
+
+---
+
+## Research & Interests
+
+- Edge AI
+- Autonomous Systems
+- Embedded Intelligence
+- AI + Hardware Integration
+- Robotics & Intelligent Automation
+- Human-Centered Engineering
+- Scalable Software Infrastructure
+
+---
+
+## Featured Projects
+
+### Intelligent Systems
+- AI-powered tools and experimental workflows
+- Automation systems and intelligent assistants
+
+### Embedded & Hardware
+- Embedded prototypes and IoT-based systems
+- Sensor integration and hardware experimentation
+
+### Software & Infrastructure
+- Full Stack applications
+- System architecture experiments
+- Scalable development workflows
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=StriX-Lab007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriX-Lab007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🌀 Fun Fact
-> “I love combining **hardware precision** with **software intelligence** — that’s where innovation truly begins.” ⚡
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mv-sashi-vardhan-reddy-a65071379/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/StriX-Lab007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> Building systems. Learning deeply. Shipping consistently.
+
+</div>
