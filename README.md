@@ -106,7 +106,7 @@ My current focus is on developing projects that bridge software intelligence wit
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/mv-sashi-vardhan-reddy-a65071379/](https://www.linkedin.com/in/sashi-vardhan)" target="_blank">
+<a href="https://www.linkedin.com/in/sashi-vardhan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
